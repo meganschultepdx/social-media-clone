@@ -2,7 +2,7 @@ import React from 'react';
 import UserCard from './UserCard';
 import UserAbout from './UserAbout';
 
-function Navbar() {
+function LeftColumn() {
   return (
     <div>
       <UserCard/>
